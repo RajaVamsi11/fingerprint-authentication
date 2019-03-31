@@ -6,7 +6,7 @@ is made for learning about fingerprint authentication using FingerprintManager c
 
 <p>
   <img src="https://user-images.githubusercontent.com/30550059/55285843-06ce2200-53b1-11e9-86c2-c7751add8da6.png" width="288" height="550" />
-  <img src="https://user-images.githubusercontent.com/30550059/55285843-06ce2200-53b1-11e9-86c2-c7751add8da6.png" width="288" height="550" /> 
+  <img src="https://user-images.githubusercontent.com/30550059/55285842-06ce2200-53b1-11e9-9ef2-cfbfdf93b5db.png" width="288" height="550" /> 
   <img src="https://user-images.githubusercontent.com/30550059/55285844-06ce2200-53b1-11e9-9521-9b029e5d0130.png" width="288" height="550" />
 </p>
 
